@@ -11,6 +11,9 @@
         <li>
             <a href="ex1.html">Aula 1 - exercício 1</a>
         </li>
+        <li>
+            <a href="ex2.html">Aula 1 - exercício 2</a>
+        </li>
     </ol>
 </body>
 </html>
